@@ -4,6 +4,6 @@ class Standar  < Account
     def set_Udemy
         puts "Standar Class is use benefit_Udemy"
         @benefit_Udemy = 0.1
-        
+        puts @benefit_Udemy
     end
 end
